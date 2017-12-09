@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi Everybody,
+
+I'm Charlie, a freelance website developer.
+Trying out Github
